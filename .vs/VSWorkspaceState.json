@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\footer",
+    "\\src\\components\\header",
+    "\\src\\page",
+    "\\src\\page\\msite",
+    "\\src\\router",
+    "\\src\\style"
+  ],
+  "PreviewInSolutionExplorer": false
+}
